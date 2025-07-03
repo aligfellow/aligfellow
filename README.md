@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="assets/logo.png" alt="a logo" width="200"/>
+<img src="assets/logo.png" alt="a logo" width="50"/>
 
 
 [![AG Google Scholar](https://img.shields.io/badge/Google_Scholar-cornflowerblue?style=for-the-badge&logo=google-scholar&logoColor=white&logoSize=auto)](https://scholar.google.com/citations?user=VyC0UtIAAAAJ&hl=en)
