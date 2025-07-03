@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![AG Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]([https://scholar.google.co.uk/citations?hl=en&user=V6SXhCsAAAAJ](https://scholar.google.com/citations?user=VyC0UtIAAAAJ&hl=en))
+
 <!--
 **aligfellow/aligfellow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
