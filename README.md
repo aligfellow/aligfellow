@@ -2,8 +2,8 @@
 
 [![AG Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=VyC0UtIAAAAJ&hl=en)
 [![AG LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-goodfellow-11b531283/)
-[![Static Badge](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white&logoSize=auto)](https://x.com/ali_goodfellow)
-
+[![AG Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white&logoSize=auto)](https://x.com/ali_goodfellow)
+[![AG orcid](https://img.shields.io/badge/orcid-forestgreen?style=for-the-badge&logo=orcid&logoColor=white&logoSize=auto)](https://orcid.org/0000-0002-0064-5007)
 
 
 <!--
