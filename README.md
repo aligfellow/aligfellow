@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[![AG Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=VyC0UtIAAAAJ&hl=en)
-[![AG LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-goodfellow-11b531283/)
+[![AG Google Scholar](https://img.shields.io/badge/Google_Scholar-cornflowerblue?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=VyC0UtIAAAAJ&hl=en)
+[![AG LinkedIn](https://img.shields.io/badge/LinkedIn-steelblue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-goodfellow-11b531283/)
 [![AG Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white&logoSize=auto)](https://x.com/ali_goodfellow)
 [![AG orcid](https://img.shields.io/badge/orcid-forestgreen?style=for-the-badge&logo=orcid&logoColor=white&logoSize=auto)](https://orcid.org/0000-0002-0064-5007)
 [![AG bluesky](https://img.shields.io/badge/bluesky-dodgerblue?style=for-the-badge&logo=bluesky&logoColor=white&logoSize=auto)](https://bsky.app/profile/aligoodfellow.bsky.social)
@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Badges made at https://shields.io/badges, using 
 -->
