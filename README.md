@@ -1,6 +1,11 @@
 ## Hi there 👋
 
 [![AG Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=VyC0UtIAAAAJ&hl=en)
+[![AG LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-goodfellow-11b531283/)
+[![AG Twitter]((https://img.shields.io/twitter/follow/?color=blue&label=Twitter&logo=Twitter&logoColor=blue&style=for-the-badge))](https://x.com/ali_goodfellow)
+
+
+
 <!--
 **aligfellow/aligfellow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
