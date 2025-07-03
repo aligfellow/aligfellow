@@ -5,7 +5,7 @@
 [![AG Twitter](https://img.shields.io/badge/Twitter-darkslategray?style=for-the-badge&logo=X&logoColor=white&logoSize=auto)](https://x.com/ali_goodfellow)
 [![AG orcid](https://img.shields.io/badge/orcid-forestgreen?style=for-the-badge&logo=orcid&logoColor=white&logoSize=auto)](https://orcid.org/0000-0002-0064-5007)
 [![AG bluesky](https://img.shields.io/badge/bluesky-dodgerblue?style=for-the-badge&logo=bluesky&logoColor=white&logoSize=auto)](https://bsky.app/profile/aligoodfellow.bsky.social)
-
+![assets/logo]
 <!--
 **aligfellow/aligfellow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
