@@ -2,7 +2,7 @@
 
 [![AG Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=VyC0UtIAAAAJ&hl=en)
 [![AG LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-goodfellow-11b531283/)
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fx.com%2Fali_goodfellow?style=flat&logo=Twitter&logoColor=black&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logoColor=white&logoSize=auto)](https://x.com/ali_goodfellow)
 
 
 
