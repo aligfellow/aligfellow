@@ -8,7 +8,7 @@
 <img src="./assets/logo.png" alt="a logo" width="30"/>
 
 
-![aligfellow's Stats](https://github-readme-stats.vercel.app/api?username=aligfellow&theme=transparent&show_icons=true&hide_border=false&count_private=true) <!-- &hide_rank=true -->
+![aligfellow's Stats](https://github-readme-stats.vercel.app/api?username=aligfellow&theme=transparent&show_icons=true&hide_border=false&count_private=true&rank_icon=github) <!-- &hide_rank=true -->
 ![aligfellow's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aligfellow&theme=transparent&show_icons=true&hide_border=false&layout=donut&text_bold=true)
 
 <!--
