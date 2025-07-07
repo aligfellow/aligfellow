@@ -8,7 +8,8 @@
 <img src="./assets/logo.png" alt="a logo" width="30"/>
 
 
-![aligfellow's Stats](https://github-readme-stats.vercel.app/api?username=aligfellow&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![aligfellow's Stats](https://github-readme-stats.vercel.app/api?username=aligfellow&theme=default&show_icons=true&hide_border=false&count_private=true)
+![aligfellow's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aligfellow&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 <!--
 **aligfellow/aligfellow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
