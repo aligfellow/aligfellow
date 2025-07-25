@@ -7,6 +7,7 @@
 [![AG bluesky](https://img.shields.io/badge/bluesky-dodgerblue?style=for-the-badge&logo=bluesky&logoColor=white&logoSize=auto)](https://bsky.app/profile/aligoodfellow.bsky.social)
 <img src="./assets/logo.png" alt="a logo" width="30"/>
 
+![Views](https://komarev.com/ghpvc/?username=aligfellow&style=flat-square&color=blue) 
 
 ![aligfellow's Stats](https://github-readme-stats.vercel.app/api?username=aligfellow&theme=transparent&show_icons=true&hide_border=false&count_private=true&rank_icon=github&include_all_commits=true) <!-- &hide_rank=true -->
 ![aligfellow's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aligfellow&theme=transparent&show_icons=true&hide_border=false&layout=donut&text_bold=true)
@@ -14,6 +15,7 @@
 
 <!--
 **aligfellow/aligfellow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![aligfellow's Stats](https://github-readme-stats.vercel.app/api?username=aligfellow&theme=transparent&show_icons=true&hide_border=false&count_private=true&rank_icon=github&include_all_commits=true) <!-- &hide_rank=true -->
 
 Here are some ideas to get you started:
 
@@ -28,6 +30,9 @@ Here are some ideas to get you started:
 
 Badges made at https://shields.io/badges, using 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aligfellow&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+![Views](https://komarev.com/ghpvc/?username=aligfellow&style=flat-square&color=blue) 
+
+
 
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
