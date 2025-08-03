@@ -7,6 +7,6 @@
 [![AG bluesky](https://img.shields.io/badge/bluesky-dodgerblue?style=for-the-badge&logo=bluesky&logoColor=white&logoSize=auto)](https://bsky.app/profile/aligoodfellow.bsky.social)
 <img src="./assets/logo.png" alt="a logo" width="30"/>
 
-![aligfellow's Stats](https://github-readme-stats.vercel.app/api?username=aligfellow&theme=transparent&show_icons=true&hide_border=false&count_private=true&include_all_commits=true) <!-- &hide_rank=true -->
+![aligfellow's Stats](https://github-readme-stats.vercel.app/api?username=aligfellow&theme=transparent&show_icons=true&hide_border=false&rank_icon=github&count_private=true&include_all_commits=true) <!-- &hide_rank=true -->
 ![aligfellow's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aligfellow&theme=transparent&show_icons=true&hide_border=false&layout=donut&text_bold=true)
 
