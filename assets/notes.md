@@ -33,4 +33,7 @@ Badges made at https://shields.io/badges, using
 > [!CAUTION]
 > Negative potential consequences of an action.
 
+![aligfellow's Stats](https://github-readme-stats.vercel.app/api?username=aligfellow&theme=transparent&show_icons=true&rank_icon=github&hide_border=false&count_private=true&include_all_commits=true) <!-- &hide_rank=true -->
+![aligfellow's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aligfellow&theme=transparent&show_icons=true&hide_border=false&layout=donut&text_bold=true)
+
 -->
