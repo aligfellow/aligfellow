@@ -5,4 +5,4 @@
 [![AG Twitter](https://img.shields.io/badge/Twitter-darkslategray?style=for-the-badge&logo=X&logoColor=white&logoSize=auto)](https://x.com/ali_goodfellow)
 [![AG orcid](https://img.shields.io/badge/orcid-forestgreen?style=for-the-badge&logo=orcid&logoColor=white&logoSize=auto)](https://orcid.org/0000-0002-0064-5007)
 [![AG bluesky](https://img.shields.io/badge/bluesky-dodgerblue?style=for-the-badge&logo=bluesky&logoColor=white&logoSize=auto)](https://bsky.app/profile/aligoodfellow.bsky.social)
-[![AG stars](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=008080&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/aligfellow)](https://github.com/aligfellow)
+[![Stars](https://img.shields.io/github/stars/aligfellow?style=for-the-badge&color=008080&labelColor=222222)](https://github.com/aligfellow)
